@@ -35,7 +35,7 @@ public static void main(String[]args){
         harga = 2.00;
     }
     
-    System.out.println("Sila bayar sebanyak RM"+harga+".\nSelamat menonton");
+    System.out.println("ila bayar sebanyak RM"+harga+".\nSelamat menonton");
 
 }
 }
